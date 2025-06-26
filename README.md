@@ -13,6 +13,7 @@
   - [**Method 07 - Cointegration Tests**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p03-07.md)
   - [**Method 08 - Forecast Accuracy Tests (Model Evaluation)**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p03-08.md)
 - [**Topic 04 - Roadmap to Learn Time Series Analysis**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04.md)
+- **Phased Execution of Time Series Project**
   - [**Stage 01 - Understanding Time Series Data**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04-01.md)
   - [**Stage 02 - Time Series Components**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04-02.md)
   - [**Stage 03 - Stationarity Check**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04-03.md)
