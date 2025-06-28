@@ -24,5 +24,5 @@
   - [**Phase 08 - Advanced Time Series Models**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04-08.md)
   - [**Phase 09 - Special Topics in Time Series**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04-09.md)
   - [**Phase 10 - Complete Real-World Case Study**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04-10.md)
-- [**Topic 05 - List of ML and DL Algorithms associated with Time Series**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p04.md)
+- [**Topic 05 - List of ML and DL Algorithms associated with Time Series**](https://github.com/fromsantanu/Time-Series-Main/blob/main/Pages/p05.md)
 
